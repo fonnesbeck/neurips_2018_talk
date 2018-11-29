@@ -2,8 +2,10 @@
 @title[Title Slide]
 
 @snap[west headline text-white span-70]
-PyMC's Big Adventure<br>*Lessons Learned from the Development of Open-source Software for Probabilistic Programming*
+PyMC's Big Adventure
 @snapend
+
+*Lessons Learned from the Development of Open-source Software for Probabilistic Programming*
 
 @snap[south-west byline  text-white]
 Machine Learning Open Source Software 2018: Sustainable communities
