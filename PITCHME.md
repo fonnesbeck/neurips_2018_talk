@@ -1,12 +1,13 @@
 ---?color=linear-gradient(to right, #c02425, #f0cb35)
-@title[PyMC's Big Adventure]
+@title[Title Slide]
 
 @snap[west headline text-white span-70]
-GitPitch<br>*The Template*
+PyMC's Big Adventure<br>*Lessons Learned from the Development of Open-source Software for Probabilistic Programming*
 @snapend
 
 @snap[south-west byline  text-white]
- Lessons Learned from the Development of Open-source Software for Probabilistic Programming 
+Machine Learning Open Source Software 2018: Sustainable communities
+NeurIPS 2018
 @snapend
 
 ---
