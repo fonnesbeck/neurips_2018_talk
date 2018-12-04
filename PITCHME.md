@@ -13,7 +13,7 @@ NeurIPS 2018
 @snapend
 
 ---
-@title[Slide Markdown]
+@title[What is PyMC?]
 
 ### Each slide in this presentation is provided as a *template*.
 
@@ -27,7 +27,7 @@ NeurIPS 2018
 
 
 ---
-@title[Tip! Fullscreen]
+@title[Origins]
 
 ![TIP](template/img/tip.png)
 <br>
@@ -59,7 +59,7 @@ For the best viewing experience, press F for fullscreen.
 ---?include=template/md/wrap-up/PITCHME.md
 
 ---
-@title[The Template Docs]
+@title[Motivation]
 
 @snap[west span-100]
 ### **Now it's @color[#E49436](your) turn.**
@@ -73,3 +73,39 @@ For the best viewing experience, press F for fullscreen.
 @snap[south docslink span-100]
 For supporting documentation see the [The Template Docs](https://gitpitch.com/docs/the-template)
 @snapend
+
+---
+@title[WinBUGS]
+
+
+---
+@title[Academic Code]
+
+
+---
+@title[PyMC3]
+
+
+---
+@title[Crisis]
+
+@snap[north-west]
+# PyMC3 in Crisis!
+@snapend
+
+
+---
+@title[Keys to Success]
+
+
+---
+@title[Building a Culture]
+
+
+---
+@title[Final Slide]
+
+
+---
+# STASH
+
