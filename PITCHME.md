@@ -46,7 +46,7 @@ NeurIPS 2018
 
 ---?image=assets/img/winbugs.jpg&opacity=20
 
-@snap[north span-50 headline]
+@snap[north headline]
 # WinBUGS
 @snapend
 
@@ -55,14 +55,6 @@ NeurIPS 2018
 
 ```
 class DisasterSampler(MetropolisSampler):
-	"""
-	Test example based on annual coal mining disasters in the UK. Occurences 
-	of disasters in the time series is thought to be derived from a
-	Poisson processes with a large rate parameter in the early part of 
-	the time series, and from one with a smaller rate in the later part.
-	We are interested in locating the switchpoint in the series using
-	MCMC. 
-		"""
 
 	def __init__(self,burn=1000):
 	
