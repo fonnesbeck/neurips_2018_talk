@@ -42,8 +42,6 @@ NeurIPS 2018
 #### **Bayesian modeling for @color[#E49436](applied) users @fa[smile-o]**
 @snapend
 
-
-
 ---?image=assets/img/winbugs.jpg&opacity=20
 
 @snap[north headline]
@@ -51,6 +49,10 @@ NeurIPS 2018
 @snapend
 
 ---?image=assets/img/pymc_1.png&size=auto 50%
+
+@snap[north]
+# PyMC @color[#E49436](1.0)
+@snapend
 
 Note:
 
