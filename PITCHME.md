@@ -7,12 +7,9 @@
 #### **Lessons Learned from the Development of Open-source Software for Probabilistic Programming**
 @snapend
 
-@snap[west byline text-orange]
-Chris Fonnesbeck, Vanderbilt University Medical Center
-@snapend
-
 @snap[south-west byline text-orange]
-Machine Learning Open Source Software 2018: Sustainable communities
+Chris Fonnesbeck, Vanderbilt University Medical Center
+#### Machine Learning Open Source Software 2018: Sustainable communities
 #### NeurIPS 2018
 @snapend
 
