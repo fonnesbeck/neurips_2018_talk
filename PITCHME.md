@@ -38,8 +38,7 @@ NeurIPS 2018
 @snap[west span-100]
 ### @color[#E49436](Why PyMC?)
 
-<br>
-Thanks 
+<br> 
 #### **Bayesian modeling for @color[#E49436](applied) users @fa[smile-o]**
 @snapend
 
@@ -47,8 +46,9 @@ Thanks
 
 ---?image=assets/img/winbugs.jpg&opacity=20
 
-# **WinBUGS**
-
+@snap[north span-50 headline]
+# WinBUGS
+@snapend
 
 ---
 @title[Academic Code]
