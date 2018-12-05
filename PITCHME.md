@@ -1,4 +1,4 @@
----?color=linear-gradient(to right, #c02425, #f0cb35)
+---?color=#F5DB2E
 @title[Title Slide]
 
 @snap[north-west text-white]
