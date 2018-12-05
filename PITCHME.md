@@ -3,12 +3,12 @@
 
 @snap[north-west]
 ## **PyMC's Big Adventure**
+
+#### Lessons Learned from the Development of Open-source Software for Probabilistic Programming
 @snapend
 
-*Lessons Learned from the Development of Open-source Software for Probabilistic Programming*
-
 @snap[east]
-![](assets/PyMC3.png)
+![](assets/img/PyMC3.png)
 @snapend
 
 @snap[south-west byline text-white]
