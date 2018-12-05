@@ -45,10 +45,9 @@ Thanks
 
 
 
----?image=assets/img/winbugs.jpg
-@title[WinBUGS]
+---?image=assets/img/winbugs.jpg&opacity=20
 
-# WinBUGS
+# **WinBUGS**
 
 
 ---
