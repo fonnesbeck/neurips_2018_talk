@@ -5,7 +5,7 @@
 ## **PyMC's Big Adventure**
 
 #### **Lessons Learned from the Development of Open-source Software for Probabilistic Programming**
-#### Chris Fonnesbeck, Vanderbilt University Medical Center
+##### Chris Fonnesbeck, Vanderbilt University Medical Center
 @snapend
 
 @snap[south-west byline text-orange]
