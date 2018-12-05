@@ -53,6 +53,39 @@ NeurIPS 2018
 ---
 @title[Academic Code]
 
+```
+class DisasterSampler(MetropolisSampler):
+	"""
+	Test example based on annual coal mining disasters in the UK. Occurences 
+	of disasters in the time series is thought to be derived from a
+	Poisson processes with a large rate parameter in the early part of 
+	the time series, and from one with a smaller rate in the later part.
+	We are interested in locating the switchpoint in the series using
+	MCMC. 
+		"""
+
+	def __init__(self,burn=1000):
+	
+		MetropolisSampler.__init__(self,burn=burn)
+		
+		'Sample changepoint data (Coal mining disasters per year)'
+		self.data = (4,5,4,0,1,4,3,4,0,6,3,3,4,0,2,6,
+			3,3,5,4,5,3,1,4,4,1,5,5,3,4,2,5,
+			2,2,3,4,2,1,3,2,2,1,1,1,1,3,0,0,
+			1,0,1,1,0,0,3,1,0,3,2,2,0,1,1,1,
+			0,1,0,1,0,0,0,2,1,0,0,0,1,1,0,2,
+			3,3,1,1,2,1,1,1,1,2,4,2,0,0,1,4,
+			0,0,0,1,0,0,0,0,0,1,0,0,1,0,1)
+	
+		'Switchpoint is specified as a parameter to be estimated'
+		self.parameter(name='k',init_val=50,dist='uniform',scale=4,
+			minval=0,maxval=len(self.data)-1)
+
+		'Rate parameters of poisson distributions'
+		self.parameter(name='Lambda',dist='exponential',
+			init_val=[1.0,1.0],minval=0)
+```
+
 
 Note:
 
