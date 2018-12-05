@@ -1,7 +1,7 @@
 ---?color=linear-gradient(to right, #c02425, #f0cb35)
 @title[Title Slide]
 
-@snap[west text-white]
+@snap[north-west text-white]
 ## PyMC's Big Adventure
 @snapend
 
