@@ -9,7 +9,7 @@
 @snapend
 
 @snap[south-west byline text-orange]
-Machine Learning Open Source Software 2018: Sustainable communities
+#### Machine Learning Open Source Software 2018: Sustainable communities
 NeurIPS 2018
 @snapend
 
