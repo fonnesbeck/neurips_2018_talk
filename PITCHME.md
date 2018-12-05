@@ -1,4 +1,4 @@
----?color=#E6E8EC
+---?image=assets/img/PyMC3.jpg&size=auto 75%&position=right&color=#E6E8EC
 @title[Title Slide]
 
 @snap[north-west]
@@ -6,8 +6,6 @@
 
 #### Lessons Learned from the Development of Open-source Software for Probabilistic Programming
 @snapend
-
-![](assets/img/PyMC3.png)
 
 @snap[south-west byline text-orange]
 Machine Learning Open Source Software 2018: Sustainable communities
