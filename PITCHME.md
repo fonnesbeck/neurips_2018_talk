@@ -1,8 +1,8 @@
 ---?color=linear-gradient(to right, #c02425, #f0cb35)
 @title[Title Slide]
 
-@snap[west headline text-white span-70]
-PyMC's Big Adventure
+@snap[west text-white]
+# PyMC's Big Adventure
 @snapend
 
 *Lessons Learned from the Development of Open-source Software for Probabilistic Programming*
@@ -11,6 +11,10 @@ PyMC's Big Adventure
 Machine Learning Open Source Software 2018: Sustainable communities
 NeurIPS 2018
 @snapend
+
+Note:
+
+- add logo here
 
 ---
 @title[What is PyMC?]
@@ -28,6 +32,100 @@ NeurIPS 2018
 
 ---
 @title[Origins]
+
+
+
+---
+@title[Motivation]
+
+@snap[west span-100]
+### @color[#E49436](Why PyMC?)
+
+<br>
+Thanks 
+#### **Bayesian modeling for @color[#E49436](applied) users @fa[smile-o]**
+@snapend
+
+
+
+---
+@title[WinBUGS]
+
+
+---
+@title[Academic Code]
+
+
+Note:
+
+- heavy object oriented implementation
+- goal: generality
+
+
+---
+@title[PyMC2]
+
+
+Note:
+
+- FORTRAN project on GH
+
+
+---
+@title[HMC]
+
+
+---
+@title[John's Blog Post]
+
+
+---
+@title[PyMC3]
+
+
+---
+@title[Showing off]
+
+
+---
+@title[Crisis]
+
+@snap[north-west]
+# PyMC3 in Crisis!
+@snapend
+
+
+---
+@Title[Theano's Demise]
+
+---
+@title[Keys to Success]
+
+
+---
+@title[Pro Tips]
+
+
+Note:
+
+- software for remote teams: Slack
+
+---
+@title[Building a Culture]
+
+
+Note:
+
+- Monthly lab meetings
+- Journal club
+- Face-to-face meetings
+
+---
+@title[Final Slide]
+
+
+---
+# STASH
 
 ![TIP](template/img/tip.png)
 <br>
@@ -73,39 +171,3 @@ For the best viewing experience, press F for fullscreen.
 @snap[south docslink span-100]
 For supporting documentation see the [The Template Docs](https://gitpitch.com/docs/the-template)
 @snapend
-
----
-@title[WinBUGS]
-
-
----
-@title[Academic Code]
-
-
----
-@title[PyMC3]
-
-
----
-@title[Crisis]
-
-@snap[north-west]
-# PyMC3 in Crisis!
-@snapend
-
-
----
-@title[Keys to Success]
-
-
----
-@title[Building a Culture]
-
-
----
-@title[Final Slide]
-
-
----
-# STASH
-
