@@ -52,8 +52,6 @@ NeurIPS 2018
 
 ---?image=assets/img/pymc_1.png
 
-## PyMC 1.0
-
 Note:
 
 - heavy object oriented implementation
