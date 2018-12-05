@@ -1,20 +1,20 @@
----?color=#F5DB2E
+---?color=#E6E8EC
 @title[Title Slide]
 
-@snap[north-west text-white]
+@snap[north-west]
 ## **PyMC's Big Adventure**
 @snapend
 
 *Lessons Learned from the Development of Open-source Software for Probabilistic Programming*
 
-@snap[south-west byline  text-white]
+@snap[east]
+![](assets/PyMC3.png)
+@snapend
+
+@snap[south-west byline text-white]
 Machine Learning Open Source Software 2018: Sustainable communities
 NeurIPS 2018
 @snapend
-
-Note:
-
-- add logo here
 
 ---
 @title[What is PyMC?]
