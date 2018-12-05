@@ -1,4 +1,4 @@
----?image=assets/img/PyMC3.png&size=auto 70%&position=right
+---?image=assets/img/PyMC3.png&size=auto 60%&position=right
 @title[Title Slide]
 
 @snap[north-west]
@@ -8,9 +8,9 @@
 @snapend
 
 @snap[south-west byline text-orange]
-Chris Fonnesbeck, Vanderbilt University Medical Center
-#### Machine Learning Open Source Software 2018: Sustainable communities
-#### NeurIPS 2018
+#### Chris Fonnesbeck, Vanderbilt University Medical Center
+Machine Learning Open Source Software 2018: Sustainable communities
+NeurIPS 2018
 @snapend
 
 ---
