@@ -7,9 +7,7 @@
 #### Lessons Learned from the Development of Open-source Software for Probabilistic Programming
 @snapend
 
-@snap[east]
 ![](assets/img/PyMC3.png)
-@snapend
 
 @snap[south-west byline text-orange]
 Machine Learning Open Source Software 2018: Sustainable communities
