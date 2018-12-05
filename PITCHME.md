@@ -50,7 +50,7 @@ NeurIPS 2018
 # WinBUGS
 @snapend
 
----?image=assets/img/pymc_1.png&size=auto 50%
+---?image=assets/img/pymc_1.png&size=auto
 
 ## PyMC 1.0
 
