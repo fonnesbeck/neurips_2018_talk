@@ -45,7 +45,7 @@ Thanks
 
 
 
----?image=assets/img/WinBUGS.png
+---?image=assets/img/winbugs.jpg
 @title[WinBUGS]
 
 # WinBUGS
