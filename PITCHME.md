@@ -48,10 +48,10 @@ NeurIPS 2018
 # WinBUGS
 @snapend
 
----?image=assets/img/pymc_1.png&size=auto 50%
+---?image=assets/img/pymc_1.png&size=auto 70%
 
 @snap[north]
-# PyMC @color[#E49436](1.0)
+### PyMC @color[#E49436](1.0)
 @snapend
 
 Note:
