@@ -2,7 +2,7 @@
 @title[Title Slide]
 
 @snap[north-west text-white]
-## PyMC's Big Adventure
+## **PyMC's Big Adventure**
 @snapend
 
 *Lessons Learned from the Development of Open-source Software for Probabilistic Programming*
