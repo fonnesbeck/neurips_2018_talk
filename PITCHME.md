@@ -126,11 +126,15 @@ Note:
 ---
 @title[John's Blog Post]
 
-@div[right-50]
-<br><br>
+@snap[west]
+> I’m not sure why this approach seems neglected. It might be that research incentives don’t reward such generally applicable research, or that MCMC researchers do not see how simplified MCMC could dramatically improve the productivity of statistics, or perhaps researchers haven’t realized how automatic differentiation can democratize these algorithms.
+@snapend
+
+
+@snap[east]
 ![](assets/img/john.jpeg)
 <br>John Salvatier 
-@divend
+@snapend
 
 ---
 @title[PyMC3]
