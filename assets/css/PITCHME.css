@@ -1,0 +1,18 @@
+.byline {
+    color: white;
+    font-weight: bold !important;
+    font-family: Helvetica Neue !important;
+}
+
+
+.headline {
+    color: white;
+    width: 80%;
+    font-weight: bold;
+    font-size: 2em !important;
+    font-variant: small-caps !important;
+  }
+
+  .smaller-equation {
+      font-size: 0.7em !important;
+  }
