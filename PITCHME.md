@@ -92,15 +92,25 @@ Note:
 @div[left-50]
 <br><br>
 ![MONKEY](assets/img/anand.jpeg)
-#### Anand Patil
+Anand Patil
+@divend
+
+@div[midpoint]
+<br><br>
+![MONKEY](assets/img/me.jpg)
+Me 
 @divend
 
 @div[right-50]
 <br><br>
 ![MONKEY](assets/img/david.jpeg)
-#### David Huard 
+David Huard 
 @divend
 
+---
+@title[PyMC2 Features]
+
+![](assets/img/pymc_avatar.png)
 
 ---
 @title[FORTRAN]
