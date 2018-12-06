@@ -1,4 +1,4 @@
----?image=assets/img/pymc3_banner.png&size=auto 80%
+---?image=assets/img/framing_model.png&opacity=70%
 @title[Title Slide]
 
 @snap[north-west]
@@ -16,7 +16,7 @@ Machine Learning Open Source Software 2018: Sustainable communities
 @title[PyMC3]
 
 @snap[north-west]
-## **PyMC3**
+
 <br>
 @ul[square-bullets](false)
 - started in 2003
@@ -27,7 +27,7 @@ Machine Learning Open Source Software 2018: Sustainable communities
 @ulend
 @snapend
 
-@snap[north-east span-45]
+@snap[north-west span-55]
 ![](assets/img/pymc3_banner.png)
 @snapend
 
