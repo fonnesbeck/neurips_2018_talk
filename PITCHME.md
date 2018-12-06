@@ -123,14 +123,14 @@ Note:
 
 ---
 
-@snap[west-50]
+@snap[west span-40]
 `\begin{align}
 \beta_0 \sim N(0, 10000) \\
 \beta_1 \sim N(0, 10000)
 \end{align}`
 @snapend
 
-@snap[east-50]
+@snap[east span-40]
 `\begin{align}
 \beta_0 \sim N(0, 10000) \\
 \beta_1 \sim N(0, 10000)
