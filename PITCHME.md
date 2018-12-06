@@ -96,7 +96,7 @@ Note:
 @divend
 
 @div[midpoint]
-<br><br>
+<br><br><br><br>
 ![](assets/img/me.jpg)
 <br>Me 
 @divend
