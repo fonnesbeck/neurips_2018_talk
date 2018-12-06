@@ -203,13 +203,11 @@ with Model() as unpooled_model:
 
 <br><br>
 ```python
-with hierarchical_model:
+with neural_network:
+    approx = pm.fit(n=30000, method='fullrank_advi')
 
-    approx = fit(n=100000)
-
-
-Average Loss = 1,115.5: 100%|██████████| 100000/100000 [00:13<00:00, 7690.51it/s]
-Finished [100%]: Average Loss = 1,115.5
+Average Loss = 1,207.6: 100%|██████████| 30000/30000 [27:41<00:00, 18.06it/s]  
+Finished [100%]: Average Loss = 1,206.2
 ```
 
 ---
