@@ -18,7 +18,7 @@ NeurIPS 2018
 
 @snap[north-west]
 ### **PyMC3**
-
+<br><br>
 @ul[](false)
 - started in 2003
 - PP framework for fitting arbitrary probability models
@@ -28,7 +28,7 @@ NeurIPS 2018
 @ulend
 @snapend
 
-@snap[east span-45]
+@snap[north-east span-45]
 ![](assets/img/PyMC3.png)
 @snapend
 
