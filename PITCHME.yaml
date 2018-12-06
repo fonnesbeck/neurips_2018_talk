@@ -25,14 +25,14 @@ theme-override : template/css/PITCHME.css
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
-logo : template/img/logo.png
+logo : assets/img/PyMC3.png
 logo-position : top-left
 
 #
 # Title Setting
 # Doc: https://gitpitch.com/docs/settings/title
 #
-title : "GitPitch Quickstart Template"
+title : "PyMC's Big Adventure"
 
 #
 # Footnote Setting
@@ -59,3 +59,5 @@ layout : center
 # https://gitpitch.com/docs/layout-features/snap-layout-slide-transitions
 #
 transition : none
+
+mathjax : TeX-MML-AM_HTMLorMML-full
