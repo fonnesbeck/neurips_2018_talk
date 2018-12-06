@@ -202,8 +202,8 @@ with Model() as unpooled_model:
 ## MCMC Sampling
 
 ```python
-with matchup_model:
-    matchup_trace = pm.sample(1000, tune=1000)
+with pitch_framing_model:
+    trace = pm.sample(1000, tune=1000)
 
 Auto-assigning NUTS sampler...
 Initializing NUTS using jitter+adapt_diag...
