@@ -124,7 +124,8 @@ Note:
 ---
 
 @div[west-50]
-```
+
+```python
 with Model() as partial_pooling:
     
     # Priors
