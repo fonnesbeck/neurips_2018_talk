@@ -91,20 +91,20 @@ Note:
 
 @div[left-50]
 <br><br>
-![MONKEY](assets/img/anand.jpeg)
-Anand Patil
+![](assets/img/anand.jpeg)
+<br>Anand Patil
 @divend
 
 @div[midpoint]
 <br><br>
-![MONKEY](assets/img/me.jpg)
-Me 
+![](assets/img/me.jpg)
+<br>Me 
 @divend
 
 @div[right-50]
 <br><br>
-![MONKEY](assets/img/david.jpeg)
-David Huard 
+![](assets/img/david.jpeg)
+<br>David Huard 
 @divend
 
 ---
