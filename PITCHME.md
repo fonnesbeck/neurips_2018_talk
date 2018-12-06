@@ -131,10 +131,9 @@ Note:
 @snapend
 
 @snap[east span-40]
-`\begin{align}
-\beta_0 \sim N(0, 10000) \\
-\beta_1 \sim N(0, 10000)
-\end{align}`
+```
+foo = bar
+```
 @snapend
 
 ---
