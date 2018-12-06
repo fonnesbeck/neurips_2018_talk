@@ -240,7 +240,9 @@ Finished [100%]: Average Loss = 1,206.2
 ---
 @title[PyMC4]
 
+@snap[midpoint]
 ![](assets/img/pymc4_tweet.png)
+@snapend
 
 ---
 @title[Keys to Success]
