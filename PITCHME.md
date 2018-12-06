@@ -48,6 +48,22 @@ NeurIPS 2018
 ## WinBUGS
 @snapend
 
+---
+
+```r
+model {
+     for (j in 1:J){
+       y[j] ~ dnorm (theta[j], tau.y[j])
+       theta[j] ~ dnorm (mu.theta, tau.theta)
+       tau.y[j] <- pow(sigma.y[j], -2)
+     }
+     mu.theta ~ dnorm (0.0, 1.0E-6)
+     tau.theta <- pow(sigma.theta, -2)
+     sigma.theta ~ dunif (0, 1000)
+   }
+
+```
+
 ---?image=assets/img/pymc_1.png&size=auto 70%
 
 @snap[north]
