@@ -16,19 +16,20 @@ NeurIPS 2018
 ---
 @title[PyMC3]
 
-# **PyMC3**
+@snap[north-west]
+### **PyMC3**
 
 - started in 2003
 - PP framework for fitting arbitrary probability models
 - based on Theano
-- implements "next generation" Bayesian inference methods
+- implements *next generation* Bayesian inference methods
 - >100 contributors
-- used throughout academia and industry: Quantopian, Monetate, Allianz, GrubHub, Channel 4, VoiceBox, etc.
+@snapend
 
 ##### `github.com/pymc-devs/pymc3`
 
 @snap[east span-45]
-![](assets/img/PyMC.jpg)
+![](assets/img/PyMC3.jpg)
 @snapend
 
 @snap[south-west byline text-orange]
