@@ -123,7 +123,7 @@ Note:
 
 ---
 
-@div[west-50]
+@snap[west-50]
 
 ```python
 with Model() as partial_pooling:
@@ -144,7 +144,7 @@ with Model() as partial_pooling:
     # Data likelihood
     y_like = Normal('y_like', mu=y_hat, sd=σ_y, observed=log_radon)
 ```
-@divend
+@snapend
 
 
 ---
