@@ -18,10 +18,10 @@ NeurIPS 2018
 
 @snap[north-west]
 ## **PyMC3**
-<br><br>
+<br>
 @ul[square-bullets](false)
 - started in 2003
-- PP framework for fitting arbitrary probability models
+- **probabilistic programming** framework
 - based on Theano
 - implements *next generation* Bayesian inference methods
 - >100 contributors
@@ -109,17 +109,41 @@ Note:
 ---
 @title[HMC]
 
+## Hamiltonian Monte Carlo
+
 
 ---
 @title[John's Blog Post]
 
+> I’m not sure why this approach seems neglected. It might be that research incentives don’t reward such generally applicable research, or that MCMC researchers do not see how simplified MCMC could dramatically improve the productivity of statistics, or perhaps researchers haven’t realized how automatic differentiation can democratize these algorithms.
 
 ---
 @title[PyMC3]
 
 
 ---
-@title[Showing off]
+
+@snap[west]
+```
+with Model() as partial_pooling:
+    
+    # Priors
+    μ_a = Normal('μ_a', mu=0., sd=1e5)
+    σ_a = HalfCauchy('σ_a', 5)
+    
+    # Random intercepts
+    a = Normal('a', mu=μ_a, sd=σ_a, shape=counties)
+    
+    # Model error
+    σ_y = HalfCauchy('σ_y',5)
+    
+    # Expected value
+    y_hat = a[county]
+    
+    # Data likelihood
+    y_like = Normal('y_like', mu=y_hat, sd=σ_y, observed=log_radon)
+```
+@snapend
 
 
 ---
