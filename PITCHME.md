@@ -92,7 +92,7 @@ Note:
 # PyMC3 in Crisis!
 @snapend
 
----?image=assets/img/photo.jpeg
+---?image=assets/img/photo.jpeg?size=auto 90%
 
 ---
 @Title[Theano's Demise]
