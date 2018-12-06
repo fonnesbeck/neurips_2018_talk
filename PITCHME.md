@@ -1,4 +1,4 @@
----?image=assets/img/framing_model.png&opacity=10%
+---?image=assets/img/framing_model.png&opacity=30
 @title[Title Slide]
 
 @snap[north-west]
