@@ -237,7 +237,7 @@ Finished [100%]: Average Loss = 1,206.2
 ---?image=assets/img/photo.jpeg&size=auto 90%
 @title[Theano's Demise]
 
----?image=assets/img/pymc4_tweet.png
+---?image=assets/img/pymc4_tweet.png&size=auto 110%
 @title[PyMC4]
 
 ---
