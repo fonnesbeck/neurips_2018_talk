@@ -123,7 +123,7 @@ Note:
 
 ---
 
-@snap
+@snap[smaller-equations]
 `\begin{align}
 &\beta_{0,i} \sim N(0, 10000) \\
 &\beta_1 \sim N(0, 10000) \\
@@ -131,7 +131,7 @@ Note:
 \end{align}`
 @snapend
 
-+++
+---
 
 ```
 with Model() as unpooled_model:
