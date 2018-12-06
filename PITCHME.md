@@ -123,10 +123,11 @@ Note:
 
 ---
 
-@snap[smaller-equation]
+@snap
 `\begin{align}
-\beta_0 \sim N(0, 10000) \\
-\beta_1 \sim N(0, 10000)
+&\beta_{0,i} \sim N(0, 10000) \\
+&\beta_1 \sim N(0, 10000) \\
+&\sigma \sim \text{HalfCauchy}(1)
 \end{align}`
 @snapend
 
