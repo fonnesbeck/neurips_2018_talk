@@ -123,18 +123,11 @@ Note:
 
 ---
 
-@snap[west span-40]
+@snap[smaller-equation]
 `\begin{align}
 \beta_0 \sim N(0, 10000) \\
 \beta_1 \sim N(0, 10000)
 \end{align}`
-@snapend
-
-@snap[east span-40]
-```python
-with Model() as unpooled_model:
-    foo = bar
-```
 @snapend
 
 ---
