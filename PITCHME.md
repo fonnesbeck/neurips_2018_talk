@@ -38,7 +38,7 @@ Salvatier, Wiecki and Fonnesbeck (2016)
 ---
 @title[Applications]
 
-@snap[west]
+@snap[west span-50]
 ### PyMC3 in the Wild
 
 - Astronomy
@@ -47,9 +47,10 @@ Salvatier, Wiecki and Fonnesbeck (2016)
 - Chemistry
 - Finance
 - Economics
+
 @snapend
 
-@snap[east]
+@snap[east span-50]
 ![](assets/img/CoTs.png)
 @color[orange](MacNeil *et al.* 2016)
 @snapend
