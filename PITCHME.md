@@ -10,7 +10,6 @@
 @snap[south-west byline text-orange]
 #### **Chris Fonnesbeck, Vanderbilt University Medical Center**
 Machine Learning Open Source Software 2018: Sustainable communities
-NeurIPS 2018
 @snapend
 
 ---
