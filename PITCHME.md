@@ -1,4 +1,4 @@
----?image=assets/img/framing_model.png&opacity=70%
+---?image=assets/img/framing_model.png&opacity=20%
 @title[Title Slide]
 
 @snap[north-west]
@@ -17,7 +17,7 @@ Machine Learning Open Source Software 2018: Sustainable communities
 
 @snap[north-west]
 
-<br>
+<br><br><br><br>
 @ul[square-bullets](false)
 - started in 2003
 - **probabilistic programming** framework
