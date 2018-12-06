@@ -28,7 +28,7 @@ Machine Learning Open Source Software 2018: Sustainable communities
 @snapend
 
 @snap[north-east span-45]
-![](assets/img/PyMC3.png)
+![](assets/img/pymc3_banner.png)
 @snapend
 
 @snap[south-west byline text-orange]
