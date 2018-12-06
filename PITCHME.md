@@ -121,7 +121,7 @@ Note:
 ---
 ### The PyMC3 Team
 
-@ul[square-bullets]
+@ul[west size-small square-bullets]
 - Colin Carroll
 - Peadar Coyle
 - Bill Engels
