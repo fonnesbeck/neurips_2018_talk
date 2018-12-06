@@ -38,13 +38,13 @@ title : "PyMC's Big Adventure"
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+footnote : "*Lessons Learned from the Development of Open-source Software for Probabilistic Programming"
 
 #
 # Highlight (Code) Setting
 # Doc: https://gitpitch.com/docs/settings/highlight
 #
-highlight : solarized-light
+highlight : solarized-dark
 
 #
 # Layout Setting
