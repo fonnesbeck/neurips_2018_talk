@@ -40,8 +40,7 @@ Salvatier, Wiecki and Fonnesbeck (2016)
 
 @snap[east]
 ![](assets/img/CoTs.png)
-
-#### @color[orange](MacNeil *et al.* (2016))
+#### @color[orange](MacNeil *et al.* 2016)
 @snapend
 
 ---
