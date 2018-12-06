@@ -1,4 +1,4 @@
----?image=assets/img/pymc3_banner.png&size=auto 80%&position=right
+---?image=assets/img/pymc3_banner.png&size=auto 80%
 @title[Title Slide]
 
 @snap[north-west]
