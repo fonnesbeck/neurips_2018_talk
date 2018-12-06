@@ -63,7 +63,7 @@ Note:
 ---
 @title[PyMC2]
 
-## And Then There Were Three
+### And Then There Were Three ...
 
 @div[left-50]
 <br><br>
@@ -76,10 +76,10 @@ Note:
 @divend
 
 
-Note:
+---
+@title[FORTRAN]
 
-- FORTRAN project on GH
-
+![](assets/img/pymc_fortran.png)
 
 ---
 @title[HMC]
