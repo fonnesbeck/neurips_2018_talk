@@ -17,9 +17,9 @@ NeurIPS 2018
 @title[PyMC3]
 
 @snap[north-west]
-### **PyMC3**
+## **PyMC3**
 <br><br>
-@ul[](false)
+@ul[square-bullets](false)
 - started in 2003
 - PP framework for fitting arbitrary probability models
 - based on Theano
