@@ -44,13 +44,13 @@ footnote : "GitPitch - The Fastest Way From Idea To Presentation"
 # Highlight (Code) Setting
 # Doc: https://gitpitch.com/docs/settings/highlight
 #
-highlight : atom-one-dark
+highlight : monokai
 
 #
 # Layout Setting
 # Doc: https://gitpitch.com/docs/settings/layout
 #
-layout : center
+layout : center-left
 
 #
 # Transition Setting
