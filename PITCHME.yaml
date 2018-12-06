@@ -13,7 +13,7 @@ published : true
 # Theme Setting
 # Doc: https://gitpitch.com/docs/settings/theme
 #
-theme : night
+theme : simple
 
 #
 # Theme-Override Setting
