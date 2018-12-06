@@ -14,18 +14,26 @@ NeurIPS 2018
 @snapend
 
 ---
-@title[What is PyMC?]
+@title[PyMC3]
 
-# What is PyMC?
+# **PyMC3**
 
-<br><br>
+- started in 2003
+- PP framework for fitting arbitrary probability models
+- based on Theano
+- implements "next generation" Bayesian inference methods
+- >100 contributors
+- used throughout academia and industry: Quantopian, Monetate, Allianz, GrubHub, Channel 4, VoiceBox, etc.
 
-- Select only the slide templates that you need.
-- Customize the template _markdown content_.
-- Optionally, override template _styles_ and _settings_.
-- Then present and publish with GitPitch @fa[smile-o]
-<br><br>
+##### `github.com/pymc-devs/pymc3`
 
+@snap[east span-45]
+![](assets/img/PyMC.jpg)
+@snapend
+
+@snap[south-west byline text-orange]
+Salvatier, Wiecki and Fonnesbeck (2016)
+@snapend
 
 ---
 @title[Origins]
