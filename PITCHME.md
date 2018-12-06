@@ -29,7 +29,7 @@ NeurIPS 2018
 @snapend
 
 @snap[east span-45]
-![](assets/img/PyMC3.jpg)
+![](assets/img/PyMC3.png)
 @snapend
 
 @snap[south-west byline text-orange]
