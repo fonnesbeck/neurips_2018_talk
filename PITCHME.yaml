@@ -44,7 +44,7 @@ footnote : "*Lessons Learned from the Development of Open-source Software for Pr
 # Highlight (Code) Setting
 # Doc: https://gitpitch.com/docs/settings/highlight
 #
-highlight : solarized-dark
+highlight : atom-one-dark
 
 #
 # Layout Setting
