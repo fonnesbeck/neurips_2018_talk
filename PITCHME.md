@@ -130,6 +130,12 @@ Note:
 \end{align}`
 @snapend
 
+@snap[east-50]
+`\begin{align}
+\beta_0 \sim N(0, 10000) \\
+\beta_1 \sim N(0, 10000)
+\end{align}`
+@snapend
 
 ---
 @title[Crisis]
