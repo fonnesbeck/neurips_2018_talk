@@ -201,6 +201,7 @@ with Model() as unpooled_model:
 
 ## Variational Inference
 
+<br><br>
 ```python
 with hierarchical_model:
 
