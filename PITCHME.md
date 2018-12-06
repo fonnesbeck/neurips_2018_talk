@@ -4,7 +4,7 @@
 @snap[north-west]
 ## **PyMC's Big Adventure**
 
-#### **Lessons Learned from the Development of Open-source Software for Probabilistic Programming**
+#### *Lessons Learned from the Development of Open-source Software for Probabilistic Programming*
 @snapend
 
 @snap[south-west byline text-orange]
@@ -164,6 +164,9 @@ Note:
 ---
 @title[PyMC3]
 
+
+---?image=assets/img/bayes_whiteboard.png
+@title[Whiteboard]
 
 ---
 

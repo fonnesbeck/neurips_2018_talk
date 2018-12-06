@@ -13,6 +13,6 @@
     font-variant: small-caps !important;
   }
 
-  .smaller-equation {
-      font-size: 0.7em !important;
-  }
+.smallerimg img {
+    width: 25%;
+}
