@@ -92,11 +92,13 @@ Note:
 @div[left-50]
 <br><br>
 ![MONKEY](assets/img/anand.jpeg)
+#### Anand Patil
 @divend
 
 @div[right-50]
 <br><br>
 ![MONKEY](assets/img/david.jpeg)
+#### David Huard 
 @divend
 
 
@@ -154,9 +156,7 @@ with Model() as unpooled_model:
 @snapend
 
 ---?image=assets/img/photo.jpeg&size=auto 90%
-
----
-@Title[Theano's Demise]
+@title[Theano's Demise]
 
 ---
 @title[Keys to Success]
