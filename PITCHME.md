@@ -123,7 +123,7 @@ Note:
 
 ---
 
-@snap[smaller-equations]
+@snap
 `\begin{align}
 &\beta_{0,i} \sim N(0, 10000) \\
 &\beta_1 \sim N(0, 10000) \\
