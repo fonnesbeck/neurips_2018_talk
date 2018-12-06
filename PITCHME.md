@@ -63,6 +63,18 @@ Note:
 ---
 @title[PyMC2]
 
+## And Then There Were Three
+
+@div[left-50]
+<br><br>
+![MONKEY](assets/img/anand.jpeg)
+@divend
+
+@div[right-50]
+<br><br>
+![MONKEY](assets/img/david.jpeg)
+@divend
+
 
 Note:
 
@@ -121,22 +133,4 @@ Note:
 - Face-to-face meetings
 
 ---
-### The PyMC3 Team
-
-@snap[south-west list-content-concise span-60]
-@ul[square-bullets](false)
-- Colin Carroll
-- Peadar Coyle
-- Bill Engels
-- Maxim Kochurov
-- Junpeng Lao
-- Eric Ma
-- Osvaldo Martin
-- Kyle Meyer
-- Austin Rochford
-- Adrian Seyboldt
-- Hannes Vasyura-Bathke
-- Thomas Wiecki
-- Taku Yoshioka
-@ulend
-@snapend
+### PyMC 
