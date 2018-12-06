@@ -20,8 +20,7 @@ NeurIPS 2018
 
 <br><br>
 
-- Select only the slide templates 
-that you need.
+- Select only the slide templates that you need.
 - Customize the template _markdown content_.
 - Optionally, override template _styles_ and _settings_.
 - Then present and publish with GitPitch @fa[smile-o]
@@ -120,8 +119,9 @@ Note:
 - Face-to-face meetings
 
 ---
-# The PyMC3 Team
+### The PyMC3 Team
 
+@ul[square-bullets]
 - Colin Carroll
 - Peadar Coyle
 - Bill Engels
@@ -135,3 +135,4 @@ Note:
 - Hannes Vasyura-Bathke
 - Thomas Wiecki
 - Taku Yoshioka
+@ulend
