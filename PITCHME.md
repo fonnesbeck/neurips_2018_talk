@@ -92,6 +92,7 @@ Note:
 # PyMC3 in Crisis!
 @snapend
 
+---?image=assets/img/photo.jpeg
 
 ---
 @Title[Theano's Demise]
@@ -111,6 +112,7 @@ Note:
 ---
 @title[Building a Culture]
 
+### Project Culture
 
 Note:
 
