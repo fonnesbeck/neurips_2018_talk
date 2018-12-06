@@ -1,4 +1,4 @@
----?image=assets/img/bayes_nn.png&opacity=40&size=auto 150%
+---?image=assets/img/bayes_nn.png&opacity=40&size=auto 170%
 @title[Title Slide]
 
 @snap[north-west]
