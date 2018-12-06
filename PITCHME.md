@@ -197,6 +197,20 @@ with Model() as unpooled_model:
 ---?image=assets/img/pymc_website.png&size=auto 90%
 
 ---
+@title[Variational Inference]
+
+```python
+with hierarchical_model:
+
+    approx = fit(n=100000)
+```
+
+```
+Average Loss = 1,115.5: 100%|██████████| 100000/100000 [00:13<00:00, 7690.51it/s]
+Finished [100%]: Average Loss = 1,115.5
+```
+
+---
 @title[Crisis]
 
 @snap[north-west]
