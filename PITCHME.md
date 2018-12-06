@@ -199,13 +199,14 @@ with Model() as unpooled_model:
 ---
 @title[Variational Inference]
 
+## Variational Inference
+
 ```python
 with hierarchical_model:
 
     approx = fit(n=100000)
-```
 
-```
+
 Average Loss = 1,115.5: 100%|██████████| 100000/100000 [00:13<00:00, 7690.51it/s]
 Finished [100%]: Average Loss = 1,115.5
 ```
