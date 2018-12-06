@@ -120,5 +120,18 @@ Note:
 - Face-to-face meetings
 
 ---
-@title[Final Slide]
+# The PyMC3 Team
 
+- Colin Carroll
+- Peadar Coyle
+- Bill Engels
+- Maxim Kochurov
+- Junpeng Lao
+- Eric Ma
+- Osvaldo Martin
+- Kyle Meyer
+- Austin Rochford
+- Adrian Seyboldt
+- Hannes Vasyura-Bathke
+- Thomas Wiecki
+- Taku Yoshioka
