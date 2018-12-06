@@ -124,26 +124,10 @@ Note:
 ---
 
 @snap[west-50]
-
-```python
-with Model() as partial_pooling:
-    
-    # Priors
-    μ_a = Normal('μ_a', mu=0., sd=1e5)
-    σ_a = HalfCauchy('σ_a', 5)
-    
-    # Random intercepts
-    a = Normal('a', mu=μ_a, sd=σ_a, shape=counties)
-    
-    # Model error
-    σ_y = HalfCauchy('σ_y',5)
-    
-    # Expected value
-    y_hat = a[county]
-    
-    # Data likelihood
-    y_like = Normal('y_like', mu=y_hat, sd=σ_y, observed=log_radon)
-```
+`\begin{align}
+\beta_0 \sim N(0, 10000) \\
+\beta_1 \sim N(0, 10000)
+\end{align}`
 @snapend
 
 
