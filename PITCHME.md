@@ -16,11 +16,12 @@ NeurIPS 2018
 ---
 @title[What is PyMC?]
 
-### Each slide in this presentation is provided as a *template*.
+# What is PyMC?
 
 <br><br>
 
-1. Select only the slide templates that you need.
+1. Select only the slide templates 
+that you need.
 1. Customize the template _markdown content_.
 1. Optionally, override template _styles_ and _settings_.
 1. Then present and publish with GitPitch @fa[smile-o]
