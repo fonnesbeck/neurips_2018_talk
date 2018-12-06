@@ -48,12 +48,15 @@ Salvatier, Wiecki and Fonnesbeck (2016)
 - Chemistry
 - Finance
 - Economics
+- Sabermetrics
+- Marketing
+- Actuarial Science
 @ulend
 @snapend
 
 @snap[east span-50]
 ![](assets/img/CoTs.png)
-@color[orange](MacNeil *et al.* 2016)
+@color[grey](MacNeil *et al.* 2016)
 @snapend
 
 ---
