@@ -38,9 +38,20 @@ Salvatier, Wiecki and Fonnesbeck (2016)
 ---
 @title[Applications]
 
-@snap[east smallerimg]
+@snap[west]
+### PyMC3 in the Wild
+
+- Astronomy
+- Biostatistics
+- Ecology
+- Chemistry
+- Finance
+- Economics
+@snapend
+
+@snap[east]
 ![](assets/img/CoTs.png)
-#### @color[orange](MacNeil *et al.* 2016)
+@color[orange](MacNeil *et al.* 2016)
 @snapend
 
 ---
