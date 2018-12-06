@@ -1,4 +1,4 @@
----?image=assets/img/bayes_nn.png&opacity=30&size=auto 190%
+---?image=assets/img/bayes_nn.png&opacity=20&size=auto 190%
 @title[Title Slide]
 
 @snap[north-west]
@@ -33,6 +33,15 @@ Machine Learning Open Source Software 2018: Sustainable communities
 
 @snap[south-west byline text-orange]
 Salvatier, Wiecki and Fonnesbeck (2016)
+@snapend
+
+---
+@title[Applications]
+
+@snap[east]
+![](assets/img/CoTs.png)
+
+#### @color[orange](MacNeil *et al.* (2016))
 @snapend
 
 ---
