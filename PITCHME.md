@@ -126,7 +126,9 @@ Note:
 `\begin{align}
 &\beta_{0,i} \sim N(0, 10000) \\
 &\beta_1 \sim N(0, 10000) \\
-&\sigma \sim \text{HalfCauchy}(1)
+&\sigma \sim \text{HalfCauchy}(5) \\
+&\theta_i = \beta_{0,i} + \beta_1 x_i \\
+&y_i \sim N(\theta_i, \sigma) 
 \end{align}`
 @snapend
 
