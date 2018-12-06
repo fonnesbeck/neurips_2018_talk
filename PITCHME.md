@@ -38,7 +38,7 @@ Salvatier, Wiecki and Fonnesbeck (2016)
 ---
 @title[Applications]
 
-@snap[east]
+@snap[east smallerimg]
 ![](assets/img/CoTs.png)
 #### @color[orange](MacNeil *et al.* 2016)
 @snapend
