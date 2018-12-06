@@ -194,7 +194,7 @@ with Model() as unpooled_model:
     y = Normal('y', θ, sd=σ, observed=log_radon)
 ```
 
----?assests/img/pymc_website&size=auto 90%
+---?assests/img/pymc_website.png&size=auto 90%
 
 ---
 @title[Crisis]
