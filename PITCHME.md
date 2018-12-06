@@ -201,6 +201,7 @@ with Model() as unpooled_model:
 
 ## MCMC Sampling
 
+<br><br>
 ```python
 with pitch_framing_model:
     trace = pm.sample(1000, tune=1000)
