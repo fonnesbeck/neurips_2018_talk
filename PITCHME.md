@@ -197,6 +197,22 @@ with Model() as unpooled_model:
 ---?image=assets/img/pymc_website.png&size=auto 90%
 
 ---
+@title[MCMC]
+
+## MCMC Sampling
+
+```python
+with matchup_model:
+    matchup_trace = pm.sample(1000, tune=1000, random_seed=RANDOM_SEEDS)
+
+Auto-assigning NUTS sampler...
+Initializing NUTS using jitter+adapt_diag...
+Multiprocess sampling (2 chains in 2 jobs)
+NUTS: [σ_log__, ψ, μ]
+100%|██████████| 2000/2000 [00:42<00:00, 47.42it/s] 
+```
+
+---
 @title[Variational Inference]
 
 ## Variational Inference
