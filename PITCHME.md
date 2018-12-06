@@ -131,6 +131,20 @@ Note:
 \end{align}`
 @snapend
 
++++
+
+```
+with Model() as unpooled_model:
+    
+    β0 = Normal('β0', 0, sd=1e5, shape=counties)
+    β1 = Normal('β1', 0, sd=1e5)
+    σ = HalfCauchy('σ', 5)
+    
+    θ = β0[county] + β1*floor
+    
+    y = Normal('y', θ, sd=σ, observed=log_radon)
+```
+
 ---
 @title[Crisis]
 
