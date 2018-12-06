@@ -165,7 +165,7 @@ Note:
 @title[PyMC3]
 
 
----?image=assets/img/bayes_whiteboard.png&auto
+---?image=assets/img/bayes_whiteboard.png&size=auto
 @title[Whiteboard]
 
 ---
