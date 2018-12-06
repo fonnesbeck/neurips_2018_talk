@@ -38,16 +38,17 @@ Salvatier, Wiecki and Fonnesbeck (2016)
 ---
 @title[Applications]
 
-@snap[west span-50]
+@snap[north-west span-50]
 ### PyMC3 in the Wild
 
+@ul[](false)
 - Astronomy
 - Biostatistics
 - Ecology
 - Chemistry
 - Finance
 - Economics
-
+@ulend
 @snapend
 
 @snap[east span-50]
