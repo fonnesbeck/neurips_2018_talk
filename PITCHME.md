@@ -121,7 +121,8 @@ Note:
 ---
 ### The PyMC3 Team
 
-@ul[west size-small square-bullets]
+@snap[south-west list-content-concise span-60]
+@ul[square-bullets](false)
 - Colin Carroll
 - Peadar Coyle
 - Bill Engels
@@ -136,3 +137,4 @@ Note:
 - Thomas Wiecki
 - Taku Yoshioka
 @ulend
+@snapend
