@@ -174,10 +174,10 @@ Requires an *auxiliary variable* to be specified
 
 $$\mathcal{H}(s, \phi) = E(s) + K(\phi) = E(s) + \frac{1}{2}(\sum_i)\phi_i^2$$
 
----?image=assets/img/nuts_sample.png&position=center&size=auto 70%
+---?image=assets/img/nuts_sample.png&position=center&size=auto 50%
 @title[HMC Samples]
 
-@snap[north]
+@snap[north-west]
 ### Efficient MCMC sampling
 @snapend
 
