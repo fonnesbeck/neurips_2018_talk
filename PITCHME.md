@@ -59,8 +59,8 @@ Salvatier, Wiecki and Fonnesbeck (2016)
 @size[0.4em](MacNeil *et al.* 2016 Joint estimation of crown of thorns [Acanthaster planci] densities on the Great Barrier Reef)
 @snapend
 
----
-@title[Origins]
+---?image=assets/img/pitch_framing.png&size=auto 90%
+@title[PyMC3 Model]
 
 
 
