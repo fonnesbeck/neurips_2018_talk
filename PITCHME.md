@@ -205,7 +205,9 @@ $$\mathcal{H}(s, \phi) = E(s) + K(\phi) = E(s) + \frac{1}{2}(\sum_i)\phi_i^2$$
 
 ---
 
-### Hierarchical Model
+@snap[north]
+#### Hierarchical Model
+@snapend
 
 @snap
 `\begin{align}
