@@ -202,6 +202,8 @@ $$\mathcal{H}(s, \phi) = E(s) + K(\phi) = E(s) + \frac{1}{2}(\sum_i)\phi_i^2$$
 ---
 @title[PyMC3]
 
+### PyMC Devs, The Next Generation
+
 @div[left-50]
 <br><br>
 ![](assets/img/john.jpeg)
@@ -217,7 +219,7 @@ $$\mathcal{H}(s, \phi) = E(s) + K(\phi) = E(s) + \frac{1}{2}(\sum_i)\phi_i^2$$
 @div[right-50]
 <br><br>
 ![](assets/img/thomas.jpg)
-<br>David Huard 
+<br>Thomas Wiecki 
 @divend
 
 
