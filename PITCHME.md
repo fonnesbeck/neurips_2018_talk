@@ -144,7 +144,7 @@ Note:
 - Suite of well-documented statistical distributions.
 - NumPy-based
 - Gaussian processes module
-- Sampling loops can be paused, tuned manually, or saved and restarted later.
+- Robust sampling loops
 - Suite of convergence diagnostics 
 - Extensible: custom step methods and unusual probability distributions
 - `f2py` FORTRAN extensions
