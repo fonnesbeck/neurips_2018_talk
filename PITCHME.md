@@ -151,8 +151,8 @@ Note:
 @ulend
 @snapend
 
-@snap[south span-100 text-orange text-05]
-Patil, A., D. Huard, and  C.J. Fonnesbeck. 2010. Journal of Statistical Software 35 (4).
+@snap[south span-100 text-05]
+@color[#2b8cbe](Patil, A., D. Huard, and  C.J. Fonnesbeck. 2010. Journal of Statistical Software 35 [4].)
 @snapend
 
 ---
