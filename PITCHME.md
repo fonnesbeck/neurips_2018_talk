@@ -260,11 +260,11 @@ Finished [100%]: Average Loss = 1,206.2
 @title[Keys to Success]
 
 
----?image=assets/img/numfocus.png&position=center&size=auto 55%
+---?image=assets/img/NumFocus_LRG.png&position=top&size=auto 90%
 @title[NumFOCUS]
 
 @snap[north]
-![](assets/img/NumFocus_LRG.png)
+![](assets/img/numfocus.png)
 @snapend
 ---
 
