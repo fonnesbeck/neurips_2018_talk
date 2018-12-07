@@ -35,6 +35,8 @@ Machine Learning Open Source Software 2018: Sustainable communities
 Salvatier, Wiecki and Fonnesbeck (2016)
 @snapend
 
+---?image=assets/img/pydata.png&size=auto 90%
+
 ---
 @title[Applications]
 
@@ -81,6 +83,7 @@ Salvatier, Wiecki and Fonnesbeck (2016)
 @snapend
 
 ---
+@title[BUGS Code]
 
 ```r
 model {
