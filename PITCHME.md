@@ -68,7 +68,7 @@ Salvatier, Wiecki and Fonnesbeck (2016)
 @title[Motivation]
 
 @snap[west span-100]
-### @color[#E49436](Why PyMC?)
+### **@color[#E49436](Why) PyMC?**
 
 <br> 
 #### **Bayesian modeling for @color[#E49436](applied) users @fa[smile-o]**
