@@ -202,11 +202,29 @@ $$\mathcal{H}(s, \phi) = E(s) + K(\phi) = E(s) + \frac{1}{2}(\sum_i)\phi_i^2$$
 ---
 @title[PyMC3]
 
+@div[left-50]
+<br><br>
+![](assets/img/john.jpeg)
+<br>Anand Patil
+@divend
+
+@div[midpoint]
+<br><br><br><br><br>
+![](assets/img/me.jpg)
+<br>Me 
+@divend
+
+@div[right-50]
+<br><br>
+![](assets/img/thomas.jpg)
+<br>David Huard 
+@divend
+
 
 ---
 
 @snap[north]
-#### Hierarchical Model
+### Hierarchical Model
 @snapend
 
 @snap
