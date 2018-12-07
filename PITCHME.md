@@ -227,15 +227,19 @@ Average Loss = 1,207.6: 100%|██████████| 30000/30000 [27:41<
 Finished [100%]: Average Loss = 1,206.2
 ```
 
+---?image=assets/img/photo.jpeg&size=auto 90%
+@title[Theano's Demise]
+
 ---
 @title[Crisis]
 
 @snap[north-west]
-# PyMC3 in Crisis!
+# PyMC3 in
 @snapend
 
----?image=assets/img/photo.jpeg&size=auto 90%
-@title[Theano's Demise]
+@snap[midpoint span-100]
+# Crisis!
+@snapend
 
 ---?image=assets/img/pymc4_tweet.png&size=auto 90%
 @title[PyMC4]
