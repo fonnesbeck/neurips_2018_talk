@@ -139,7 +139,7 @@ Note:
 @snapend
 
 @snap[west]
-### PyMC2
+### @color[#2b8cbe](**PyMC2**)
 @ul[text-10](false)
 - Suite of well-documented statistical distributions.
 - NumPy-based
