@@ -263,7 +263,7 @@ Finished [100%]: Average Loss = 1,206.2
 ---?image=assets/img/numfocus.png&position=center&size=auto 55%
 @title[NumFOCUS]
 
-@snap[north]
+@snap[north-west]
 ![](assets/img/NumFocus_LRG.png)
 @snapend
 ---
