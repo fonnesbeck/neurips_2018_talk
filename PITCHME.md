@@ -246,17 +246,16 @@ Note:
 - software for remote teams: Slack
 
 ---
+
+
+---?image=assets/img/IMG_0055.JPG&size=auto 80%
+@title[Lab Meetings]
+
+---?image=assets/img/IMG_0077.JPG&position=right&size=auto 80%
 @title[Building a Culture]
 
 ### Project Culture
 
-Note:
-
 - Monthly lab meetings
 - Journal club
 - Face-to-face meetings
-
----?image=assets/img/IMG_0055.JPG&size=auto 80%
-
-
----?image=assets/img/IMG_0077.JPG&size=auto 80%
