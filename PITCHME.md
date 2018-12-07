@@ -230,17 +230,6 @@ Finished [100%]: Average Loss = 1,206.2
 ---?image=assets/img/photo.jpeg&size=auto 90%
 @title[Theano's Demise]
 
----
-@title[Crisis]
-
-@snap[north-west]
-# PyMC3 in
-@snapend
-
-@snap[midpoint span-100]
-# Crisis!
-@snapend
-
 ---?image=assets/img/pymc4_tweet.png&size=auto 90%
 @title[PyMC4]
 
@@ -248,8 +237,8 @@ Finished [100%]: Average Loss = 1,206.2
 @title[Keys to Success]
 
 
----
-@title[Pro Tips]
+---?image=assets/img/numfocus.png&size=auto 100%
+@title[NumFOCUS]
 
 
 Note:
