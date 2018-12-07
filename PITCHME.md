@@ -134,10 +134,13 @@ Note:
 ---
 @title[PyMC2 Features]
 
+@snap[north-east]
 ![](assets/img/icon.png)
+@snapend
 
+@snap[west]
 ### PyMC2
-
+@ul[](false)
 - Suite of well-documented statistical distributions.
 - NumPy-based
 - Gaussian processes module
@@ -145,8 +148,12 @@ Note:
 - Suite of convergence diagnostics 
 - Extensible: custom step methods and unusual probability distributions
 - `f2py` FORTRAN extensions 
+@ulend
+@snapend
 
+@snap[south byline]
 Patil, A., D. Huard, and  C.J. Fonnesbeck. 2010. “PyMC: Bayesian Stochastic Modelling in Python.” Journal of Statistical Software 35 (4).
+@snapend
 
 ---
 @title[FORTRAN]
