@@ -177,7 +177,9 @@ $$\mathcal{H}(s, \phi) = E(s) + K(\phi) = E(s) + \frac{1}{2}(\sum_i)\phi_i^2$$
 ---?image=assets/img/nuts_sample.png&position=center&size=auto 70%
 @title[HMC Samples]
 
+@snap[north]
 ### Efficient MCMC sampling
+@snapend
 
 @snap[south span-100 text-05]
 @color[#2b8cbe](Hoffman and Gelman, 2014)
