@@ -174,7 +174,7 @@ Requires an *auxiliary variable* to be specified
 
 $$\mathcal{H}(s, \phi) = E(s) + K(\phi) = E(s) + \frac{1}{2}(\sum_i)\phi_i^2$$
 
----?image=assets/img/nuts_samples.png&position=center
+---?image=assets/img/nuts_sample.png&position=center
 @title[HMC Samples]
 
 @snap[south span-100 text-05]
