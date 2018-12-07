@@ -165,22 +165,23 @@ Note:
 @title[PyMC3]
 
 
----?image=assets/img/bayes_whiteboard.png&size=auto
-@title[Whiteboard]
-
 ---
+
+## Hierarchical Model
 
 @snap
 `\begin{align}
 &\beta_{0,i} \sim N(0, 10000) \\
 &\beta_1 \sim N(0, 10000) \\
-&\sigma \sim \text{HalfCauchy}(5) \\
+&\sigma \sim C^+(5) \\
 &\theta_i = \beta_{0,i} + \beta_1 x_i \\
 &y_i \sim N(\theta_i, \sigma) 
 \end{align}`
 @snapend
 
 ---
+
+## Hierarchical Model
 
 ```
 with Model() as unpooled_model:
@@ -193,6 +194,9 @@ with Model() as unpooled_model:
     
     y = Normal('y', θ, sd=σ, observed=log_radon)
 ```
+
+---?image=assets/img/bayes_whiteboard.png&size=auto
+@title[Whiteboard]
 
 ---?image=assets/img/pymc_website.png&size=auto 90%
 
@@ -254,8 +258,10 @@ Note:
 ---?image=assets/img/IMG_0077.JPG&position=right&size=auto 80%
 @title[Building a Culture]
 
-### Project Culture
+### Interaction and Communication
 
 - Monthly lab meetings
 - Journal club
 - Face-to-face meetings
+- Slack channels
+- Discourse site
