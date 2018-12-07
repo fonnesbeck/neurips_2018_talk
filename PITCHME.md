@@ -163,7 +163,16 @@ Note:
 ---
 @title[HMC]
 
-## Hamiltonian Monte Carlo
+### Hamiltonian Monte Carlo
+
+Uses a *physical analogy* of a frictionless particle moving on a hyper-surface
+
+Requires an *auxiliary variable* to be specified
+
+- position (unknown variable value)
+- momentum (auxiliary)
+
+$$\mathcal{H}(s, \phi) = E(s) + K(\phi) = E(s) + \frac{1}{2}(\sum_i)\phi_i^2$$
 
 
 ---
