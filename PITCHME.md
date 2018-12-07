@@ -256,7 +256,7 @@ Note:
 - Journal club
 - Face-to-face meetings
 
----?image=assests/img/IMG_0055.JPG@size=auto 80%
+---?image=assests/img/IMG_0055.JPG&size=auto 80%
 
 
----?image=assests/img/IMG_0077.JPG@size=auto 80%
+---?image=assests/img/IMG_0077.JPG&size=auto 80%
