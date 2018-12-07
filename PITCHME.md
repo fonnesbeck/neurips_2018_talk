@@ -138,9 +138,9 @@ Note:
 ![](assets/img/icon.png)
 @snapend
 
-@snap[west text-10]
+@snap[west]
 ### PyMC2
-@ul[](false)
+@ul[text-10](false)
 - Suite of well-documented statistical distributions.
 - NumPy-based
 - Gaussian processes module
@@ -152,7 +152,7 @@ Note:
 @snapend
 
 @snap[south span-100 text-orange text-05]
-Patil, A., D. Huard, and  C.J. Fonnesbeck. 2010. “PyMC: Bayesian Stochastic Modelling in Python.” Journal of Statistical Software 35 (4).
+Patil, A., D. Huard, and  C.J. Fonnesbeck. 2010. Journal of Statistical Software 35 (4).
 @snapend
 
 ---
