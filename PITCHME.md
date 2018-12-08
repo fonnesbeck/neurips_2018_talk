@@ -290,6 +290,9 @@ array([[ 0.04517666,  0.19661193],
 <br>Thomas Wiecki 
 @divend
 
+Note:
+
+- large contributions from ephemeral developers
 
 ---
 @title[Regression Math]
@@ -348,6 +351,10 @@ NUTS: [σ_log__, ψ, μ]
 100%|██████████| 2000/2000 [00:42<00:00, 47.42it/s] 
 ```
 
+Note:
+
+- Separate model creation from model fitting
+
 ---
 @title[Variational Inference]
 
@@ -361,6 +368,11 @@ with neural_network:
 Average Loss = 1,207.6: 100%|██████████| 30000/30000 [27:41<00:00, 18.06it/s]  
 Finished [100%]: Average Loss = 1,206.2
 ```
+
+Note:
+
+- More than just MCMC
+- EVERYTHING WAS GOING GREAT
 
 ---?image=assets/img/photo.jpeg&size=auto 90%
 @title[Theano's Demise]
@@ -404,14 +416,31 @@ Finished [100%]: Average Loss = 1,206.2
 ![](assets/img/NumFocus_LRG.png)
 @snapend
 
+Note:
+
+- sustainable high-level programming languages, open code development, reproducible research. 
+- educational programs and events 
+- fiscal sponsorship 
+- RESOURCE & COMMUNITY
+
 ---?image=assets/img/gsoc.jpg
 @title[Google Summer of Code]
+
+Note: 
+
+- Corporate support of open source
 
 ---?image=assets/img/IMG_0055.JPG&size=auto 80%
 @title[Lab Meetings]
 
 ---?image=assets/img/nicole_talk.jpg
 @title[Give Talks]
+
+Note:
+
+- Conferences, Tutorials
+- Local meetups and user groups
+- Blogs and runnable examples
 
 ---?image=assets/img/IMG_0077.JPG&position=right&size=auto 100%
 @title[Building a Culture]
@@ -425,5 +454,19 @@ Finished [100%]: Average Loss = 1,206.2
 - Slack channels
 - Discourse site
 
+Note:
+
+Build a culture
+
+Many free modes of communication
+
 ---?image=assets/img/bayes_carry_out.jpg
 @title[Final Slide]
+
+Note:
+
+- Get to know your developers, and place trust in them
+- Allow developers to become invested in the project, take on responsibilities
+- Hang on to people, rather than code or ideas
+- Use available resources to your advantage
+
