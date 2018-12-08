@@ -213,7 +213,7 @@ $$\mathcal{H}(s, \phi) = E(s) + K(\phi) = E(s) + \frac{1}{2}(\sum_i)\phi_i^2$$
 @div[left-50]
 <br><br>
 ![](assets/img/john.jpeg)
-<br>Anand Patil
+<br>John Salvatier
 @divend
 
 @div[midpoint]
