@@ -304,11 +304,11 @@ Finished [100%]: Average Loss = 1,206.2
 @title[Backend Choices]
 
 
-@snap[north-west]
+@snap[north-east]
 ![](assets/img/chainer_logo.png)
 @snapend
 
-@snap[north-east]
+@snap[north-west]
 ![](assets/img/mxnet_logo.png)
 @snapend
 
