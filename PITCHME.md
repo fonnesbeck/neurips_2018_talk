@@ -365,6 +365,7 @@ Finished [100%]: Average Loss = 1,206.2
 
 ### Current PyMC3 Core Devs
 
+@size[0.8em](
 - Colin Carroll
 - Peadar Coyle
 - Bill Engels
@@ -376,7 +377,7 @@ Finished [100%]: Average Loss = 1,206.2
 - Austin Rochford
 - Adrian Seyboldt
 - Hannes Vasyura-Bathke
-- Thomas Wiecki
+- Thomas Wiecki)
 
 @snap[east span-60]
 ![](assets/img/bayes_carry_out.jpg)
