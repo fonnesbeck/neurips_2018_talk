@@ -319,7 +319,8 @@ Finished [100%]: Average Loss = 1,206.2
 ---?image=assets/img/IMG_0077.JPG&position=right&size=auto 80%
 @title[Building a Culture]
 
-### Interaction and Communication
+### Interaction and 
+### Communication
 
 - Monthly lab meetings
 - Journal club
