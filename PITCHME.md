@@ -208,7 +208,7 @@ $$\mathcal{H}(s, \phi) = E(s) + K(\phi) = E(s) + \frac{1}{2}(\sum_i)\phi_i^2$$
 
 ---
 @title[theano]
-# Calculating Gradients in Theano
+#### Calculating Gradients in Theano
 
 ```python
 >>> from theano import function, tensor as tt
