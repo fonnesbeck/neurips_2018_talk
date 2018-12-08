@@ -35,7 +35,7 @@ Machine Learning Open Source Software 2018: Sustainable communities
 Salvatier, Wiecki and Fonnesbeck (2016)
 @snapend
 
-Notes: 
+Note: 
 
 Sustainable does not have to be large
 
