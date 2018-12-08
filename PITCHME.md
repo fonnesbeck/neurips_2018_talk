@@ -231,10 +231,10 @@ $$\mathcal{H}(s, \phi) = E(s) + K(\phi) = E(s) + \frac{1}{2}(\sum_i)\phi_i^2$$
 
 
 ---
-@title[Hierarchical Math]
+@title[Regression Math]
 
 @snap[north]
-### Hierarchical Model
+### Regression Model
 @snapend
 
 @snap
@@ -248,9 +248,9 @@ $$\mathcal{H}(s, \phi) = E(s) + K(\phi) = E(s) + \frac{1}{2}(\sum_i)\phi_i^2$$
 @snapend
 
 ---
-@title[Hierarchical Code]
+@title[Regression Code]
 
-### Hierarchical Model
+### Regression Model
 
 ```
 with Model() as unpooled_model:
