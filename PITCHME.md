@@ -360,25 +360,5 @@ Finished [100%]: Average Loss = 1,206.2
 - Slack channels
 - Discourse site
 
----
+---?image=assets/img/bayes_carry_out.jpg
 @title[Final Slide]
-
-### Current PyMC3 Core Devs
-
-@size[0.8em](
-- Colin Carroll
-- Peadar Coyle
-- Bill Engels
-- Maxim Kochurov
-- Junpeng Lao
-- Eric Ma
-- Osvaldo Martin
-- Kyle Meyer
-- Austin Rochford
-- Adrian Seyboldt
-- Hannes Vasyura-Bathke
-- Thomas Wiecki)
-
-@snap[east span-60]
-![](assets/img/bayes_carry_out.jpg)
-@snapend
