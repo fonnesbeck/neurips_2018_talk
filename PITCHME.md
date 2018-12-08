@@ -313,7 +313,7 @@ Finished [100%]: Average Loss = 1,206.2
 @snapend
 
 @snap[south-west]
-![](assets/img/tf_logo.jpg)
+![](assets/img/tf_logo.png)
 @snapend
 
 @snap[south-east thumbnail]
