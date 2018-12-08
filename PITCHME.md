@@ -301,8 +301,24 @@ Finished [100%]: Average Loss = 1,206.2
 @title[PyMC4]
 
 ---
-@title[Keys to Success]
+@title[Backend Choices]
 
+
+@snap[north-west]
+![](assets/img/chainer_logo.png)
+@snapend
+
+@snap[north-east]
+![](assets/img/mxnet_logo.png)
+@snapend
+
+@snap[south-west]
+![](assets/img/tf_logo.png)
+@snapend
+
+@snap[south-east thumbnail]
+![](assets/img/pytorch_logo.png)
+@snapend
 
 ---?image=assets/img/numfocus.png&position=center&size=auto 55%
 @title[NumFOCUS]
