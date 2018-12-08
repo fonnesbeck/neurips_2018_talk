@@ -359,3 +359,10 @@ Finished [100%]: Average Loss = 1,206.2
 - Face-to-face meetings
 - Slack channels
 - Discourse site
+
+---
+@title[Final Slide]
+
+@snap[east span-50]
+![](assets/img/bayes_carry_out.jpg)
+@snapend
