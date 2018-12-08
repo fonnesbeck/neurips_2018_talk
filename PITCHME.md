@@ -312,7 +312,7 @@ Finished [100%]: Average Loss = 1,206.2
 @snapend
 
 @snap[center]
-![](assets/img/question.png)
+![](assets/img/question.jpeg)
 @snapend
 
 @snap[south-west]
