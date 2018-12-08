@@ -311,7 +311,7 @@ Finished [100%]: Average Loss = 1,206.2
 ![](assets/img/mxnet_logo.png)
 @snapend
 
-@snap[midpoint]
+@snap[center]
 ![](assets/img/question.png)
 @snapend
 
