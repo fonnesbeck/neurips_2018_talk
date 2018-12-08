@@ -37,6 +37,8 @@ Salvatier, Wiecki and Fonnesbeck (2016)
 
 Note: 
 
+Others: Stan, Nimble, Edward
+
 Sustainable does not have to be large
 
 ---?image=assets/img/pydata.png&size=auto 90%
@@ -69,6 +71,10 @@ Sustainable does not have to be large
 @size[0.4em](MacNeil *et al.* 2016)
 @snapend
 
+Note:
+
+Industry: Quantopian, Channel 4, Allianz, Salesforce ...
+
 ---?image=assets/img/pitch_framing.png&size=auto 70%
 @title[PyMC3 Model]
 
@@ -84,6 +90,14 @@ Sustainable does not have to be large
 <br> 
 #### **Bayesian modeling for @color[#E49436](applied) users @fa[smile-o]**
 @snapend
+
+Note:
+
+Computing a long-standing impediment to Bayes
+
+- Allows users to focus on their problem, and not CS or statistical methods
+- Allows rapid iteration over models
+- Generates interpretable outputs
 
 ---?image=assets/img/winbugs.jpg&opacity=40
 @title[WinBUGS]
