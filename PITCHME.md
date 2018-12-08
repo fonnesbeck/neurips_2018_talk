@@ -35,6 +35,10 @@ Machine Learning Open Source Software 2018: Sustainable communities
 Salvatier, Wiecki and Fonnesbeck (2016)
 @snapend
 
+Notes: 
+
+Sustainable does not have to be large
+
 ---?image=assets/img/pydata.png&size=auto 90%
 @title[PyData]
 
