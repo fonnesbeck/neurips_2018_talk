@@ -219,6 +219,7 @@ Note:
 
 - Metropolis very limited 
 - Next-generation MCMC
+- Position s, velocity phi
 
 ---?image=assets/img/nuts_sample.png&position=center&size=auto 60%
 @title[HMC Samples]
@@ -245,6 +246,11 @@ Note:
 #### @color[orange](John Salvatier)
 @snapend
 
+Note:
+
+- Comments from Colin Fox, Mark Girolami, Bob Carpenter
+- Offered to let him refactor the next version of PyMC
+
 ---
 @title[theano]
 #### Calculating Gradients in Theano
@@ -259,6 +265,7 @@ Note:
 array([[ 0.04517666,  0.19661193],
        [ 0.25      ,  0.10499359]])
 ```
+
 
 ---
 @title[PyMC3]
