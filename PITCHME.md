@@ -36,6 +36,7 @@ Salvatier, Wiecki and Fonnesbeck (2016)
 @snapend
 
 ---?image=assets/img/pydata.png&size=auto 90%
+@title[PyData]
 
 ---
 @title[Applications]
@@ -77,6 +78,7 @@ Salvatier, Wiecki and Fonnesbeck (2016)
 @snapend
 
 ---?image=assets/img/winbugs.jpg&opacity=40
+@title[WinBUGS]
 
 @snap[north headline]
 ## WinBUGS
@@ -100,6 +102,7 @@ model {
 ```
 
 ---?image=assets/img/pymc_1.png&size=auto 70%
+@title[PyMC 1]
 
 @snap[north]
 ### PyMC @color[#E49436](1.0)
@@ -227,6 +230,7 @@ $$\mathcal{H}(s, \phi) = E(s) + K(\phi) = E(s) + \frac{1}{2}(\sum_i)\phi_i^2$$
 
 
 ---
+@title[Hierarchical Math]
 
 @snap[north]
 ### Hierarchical Model
@@ -243,6 +247,7 @@ $$\mathcal{H}(s, \phi) = E(s) + K(\phi) = E(s) + \frac{1}{2}(\sum_i)\phi_i^2$$
 @snapend
 
 ---
+@title[Hierarchical Code]
 
 ### Hierarchical Model
 
@@ -262,6 +267,7 @@ with Model() as unpooled_model:
 @title[Whiteboard]
 
 ---?image=assets/img/pymc_website.png&size=auto 90%
+@title[PyMC3 Examples]
 
 ---
 @title[MCMC]
