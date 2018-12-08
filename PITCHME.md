@@ -68,7 +68,8 @@ Salvatier, Wiecki and Fonnesbeck (2016)
 ---?image=assets/img/pitch_framing.png&size=auto 70%
 @title[PyMC3 Model]
 
-
+---?image=assets/img/pymc_output.png&size=auto 90%
+@title[PyMC3 Plot]
 
 ---
 @title[Motivation]
