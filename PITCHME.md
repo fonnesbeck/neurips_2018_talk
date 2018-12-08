@@ -105,7 +105,7 @@ model {
 ```
 
 ---?image=assets/img/pymc_1.png&size=auto 70%
-@title[PyMC 1]
+@title[PyMC1]
 
 @snap[north]
 ### PyMC @color[#E49436](1.0)
