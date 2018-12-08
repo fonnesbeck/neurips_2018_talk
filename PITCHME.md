@@ -323,14 +323,18 @@ Finished [100%]: Average Loss = 1,206.2
 ![](assets/img/pytorch_logo.png)
 @snapend
 
+---
+
+@snap[center]
+![](http://d.pr/i/WgAU+)
+@snapend
+
 ---?image=assets/img/numfocus.png&position=center&size=auto 55%
 @title[NumFOCUS]
 
 @snap[north]
 ![](assets/img/NumFocus_LRG.png)
 @snapend
-
----?image=http://d.pr/i/WgAU+
 
 ---?image=assets/img/IMG_0055.JPG&size=auto 80%
 @title[Lab Meetings]
