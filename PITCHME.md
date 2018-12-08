@@ -314,6 +314,10 @@ Finished [100%]: Average Loss = 1,206.2
 ![](assets/img/mxnet_logo.png)
 @snapend
 
+@snap[midpoint]
+![](assets/img/question.png)
+@snapend
+
 @snap[south-west]
 ![](assets/img/tf_logo.png)
 @snapend
