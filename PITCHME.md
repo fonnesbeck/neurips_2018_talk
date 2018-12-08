@@ -303,6 +303,9 @@ Finished [100%]: Average Loss = 1,206.2
 ---?image=assets/img/photo.jpeg&size=auto 90%
 @title[Theano's Demise]
 
+---?image=assets/img/fetal.jpg
+@title[Sadness]
+
 ---?image=assets/img/pymc4_tweet.png&size=auto 90%
 @title[PyMC4]
 
@@ -330,6 +333,7 @@ Finished [100%]: Average Loss = 1,206.2
 @snapend
 
 ---?image=assets/img/eightball.jpg&position=center&size=auto 100%
+@title[The Future]
 
 ---?image=assets/img/numfocus.png&position=center&size=auto 55%
 @title[NumFOCUS]
@@ -339,6 +343,7 @@ Finished [100%]: Average Loss = 1,206.2
 @snapend
 
 ---?image=assets/img/gsoc.jpg
+@title[Google Summer of Code]
 
 ---?image=assets/img/IMG_0055.JPG&size=auto 80%
 @title[Lab Meetings]
