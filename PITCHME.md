@@ -348,7 +348,7 @@ Finished [100%]: Average Loss = 1,206.2
 ---?image=assets/img/IMG_0055.JPG&size=auto 80%
 @title[Lab Meetings]
 
----?image=assets/img/nicole_talk.png
+---?image=assets/img/nicole_talk.jpg
 @title[Give Talks]
 
 ---?image=assets/img/IMG_0077.JPG&position=right&size=auto 80%
