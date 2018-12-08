@@ -59,7 +59,7 @@ Salvatier, Wiecki and Fonnesbeck (2016)
 
 @snap[east span-50]
 ![](assets/img/CoTs.png)
-@size[0.2em](Joint estimation of crown of thorns *Acanthaster planci* densities on the Great Barrier Reef)
+@size[0.3em](Joint estimation of crown of thorns *Acanthaster planci* densities on the Great Barrier Reef) //
 @size[0.4em](MacNeil *et al.* 2016)
 @snapend
 
