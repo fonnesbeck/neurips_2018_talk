@@ -329,9 +329,7 @@ Finished [100%]: Average Loss = 1,206.2
 @snap[north]
 ![](assets/img/NumFocus_LRG.png)
 @snapend
----
-
-![](http://d.pr/i/WgAU+)
+---?image=http://d.pr/i/WgAU+&size=auto 100%
 
 ---?image=assets/img/IMG_0055.JPG&size=auto 80%
 @title[Lab Meetings]
