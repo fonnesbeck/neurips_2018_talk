@@ -331,6 +331,7 @@ Finished [100%]: Average Loss = 1,206.2
 @snapend
 ---
 
+![](http://d.pr/i/WgAU+)
 
 ---?image=assets/img/IMG_0055.JPG&size=auto 80%
 @title[Lab Meetings]
