@@ -372,6 +372,7 @@ Finished [100%]: Average Loss = 1,206.2
 Note:
 
 - More than just MCMC
+- Projects that extend PyMC: exoplanet, BayLEAF, PyMC-Learn
 - EVERYTHING WAS GOING GREAT
 
 ---?image=assets/img/photo.jpeg&size=auto 90%
