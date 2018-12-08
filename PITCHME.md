@@ -164,10 +164,8 @@ Note:
 @color[#2b8cbe](Patil, A., D. Huard, and  C.J. Fonnesbeck. 2010. Journal of Statistical Software 35 [4].)
 @snapend
 
----
+---?image=assets/img/pymc_fortran.png
 @title[FORTRAN]
-
-![](assets/img/pymc_fortran.png)
 
 ---
 @title[HMC]
