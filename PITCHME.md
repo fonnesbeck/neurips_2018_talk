@@ -207,6 +207,21 @@ $$\mathcal{H}(s, \phi) = E(s) + K(\phi) = E(s) + \frac{1}{2}(\sum_i)\phi_i^2$$
 @snapend
 
 ---
+@title[theano]
+# Calculating Gradients in Theano
+
+```python
+>>> from theano import function, tensor as tt
+>>> x = tt.dmatrix('x')
+>>> s = tt.sum(1 / (1 + tt.exp(-x)))
+>>> gs = tt.grad(s, x)
+>>> dlogistic = function([x], gs)
+>>> dlogistic([[3, -1],[0, 2]])
+array([[ 0.04517666,  0.19661193],
+       [ 0.25      ,  0.10499359]])
+```
+
+---
 @title[PyMC3]
 
 ### PyMC Devs, The Next Generation
