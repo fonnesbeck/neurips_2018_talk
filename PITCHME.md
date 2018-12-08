@@ -78,6 +78,12 @@ Industry: Quantopian, Channel 4, Allianz, Salesforce ...
 ---?image=assets/img/pitch_framing.png&size=auto 70%
 @title[PyMC3 Model]
 
+Note:
+
+- Allows users to focus on their problem, and not CS or statistical methods
+- Allows rapid iteration over models
+- Generates interpretable outputs
+
 ---?image=assets/img/pymc_output.png&size=auto 90%
 @title[PyMC3 Plot]
 
@@ -94,10 +100,7 @@ Industry: Quantopian, Channel 4, Allianz, Salesforce ...
 Note:
 
 Computing a long-standing impediment to Bayes
-
-- Allows users to focus on their problem, and not CS or statistical methods
-- Allows rapid iteration over models
-- Generates interpretable outputs
+- most analysts coding bespoke models
 
 ---?image=assets/img/winbugs.jpg&opacity=40
 @title[WinBUGS]
@@ -123,6 +126,12 @@ model {
 
 ```
 
+Note:
+
+- DSL
+- closed source
+- OpenBUGS: Object Pascal (rich text binary source code)
+
 ---?image=assets/img/pymc_1.png&size=auto 70%
 @title[PyMC1]
 
@@ -132,9 +141,10 @@ model {
 
 Note:
 
+- SourceForge
 - heavy object oriented implementation
-- goal: generality
-
+- goal: general Bayesian modeling in Python
+- handfull of classes and functions
 
 ---
 @title[PyMC2]
@@ -158,6 +168,11 @@ Note:
 ![](assets/img/david.jpeg)
 <br>David Huard 
 @divend
+
+Note:
+
+- Good idea: attracted interest
+- Also biologists, but better software engineers
 
 ---
 @title[PyMC2 Features]
@@ -199,6 +214,11 @@ Requires an *auxiliary variable* to be specified
 - momentum (auxiliary)
 
 $$\mathcal{H}(s, \phi) = E(s) + K(\phi) = E(s) + \frac{1}{2}(\sum_i)\phi_i^2$$
+
+Note:
+
+- Metropolis very limited 
+- Next-generation MCMC
 
 ---?image=assets/img/nuts_sample.png&position=center&size=auto 60%
 @title[HMC Samples]
