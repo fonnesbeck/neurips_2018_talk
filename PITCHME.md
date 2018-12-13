@@ -412,9 +412,11 @@ Note:
 ![](assets/img/PyMC3.png)
 @snapend
 
-+
+@snap[midpoint]
+![](assets/img/plus-sign-512.png)
+@snapend
 
-@snap[west]
+@snap[east]
 ![](assets/img/tf_logo.png)
 @snapend
 
