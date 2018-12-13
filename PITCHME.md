@@ -413,7 +413,7 @@ Note:
 @snapend
 
 @snap[midpoint]
-![](assets/img/plus-sign-512.png)
+![](assets/img/plus.png)
 @snapend
 
 @snap[east]
