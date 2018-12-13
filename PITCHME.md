@@ -3,13 +3,11 @@
 
 @snap[north-west]
 ## **PyMC's Big Adventure**
-
-#### *Lessons Learned from the Development of Open-source Software for Probabilistic Programming*
 @snapend
 
 @snap[south-west byline text-orange]
 #### **Chris Fonnesbeck, Vanderbilt University Medical Center**
-Machine Learning Open Source Software 2018: Sustainable communities
+London Bayes Mixer, 13 December 2018
 @snapend
 
 ---
@@ -407,59 +405,21 @@ Note:
 ![](assets/img/pytorch_logo.png)
 @snapend
 
----?image=assets/img/eightball.jpg&position=center&size=auto 100%
-@title[The Future]
+---
+@title[TFP]
 
----?image=assets/img/numfocus.png&position=center&size=auto 55%
-@title[NumFOCUS]
-
-@snap[north]
-![](assets/img/NumFocus_LRG.png)
+@snap[west]
+![](assets/img/PyMC3.png)
 @snapend
 
-Note:
++
 
-- sustainable high-level programming languages, open code development, reproducible research. 
-- educational programs and events 
-- fiscal sponsorship 
-- RESOURCE & COMMUNITY
+@snap[west]
+![](assets/img/tf_logo.png)
+@snapend
 
----?image=assets/img/gsoc.jpg
-@title[Google Summer of Code]
-
-Note: 
-
-- Corporate support of open source
-
----?image=assets/img/IMG_0055.JPG&size=auto 80%
-@title[Lab Meetings]
-
----?image=assets/img/nicole_talk.jpg
-@title[Give Talks]
-
-Note:
-
-- Conferences, Tutorials
-- Local meetups and user groups
-- Blogs and runnable examples
-
----?image=assets/img/IMG_0077.JPG&position=right&size=auto 100%
-@title[Building a Culture]
-
-### Interaction and 
-### Communication
-
-- Monthly lab meetings
-- Journal club
-- Face-to-face meetings
-- Slack channels
-- Discourse site
-
-Note:
-
-Build a culture
-
-Many free modes of communication
+---?image=assets/img/eightball.jpg&position=center&size=auto 100%
+@title[The Future]
 
 ---?image=assets/img/bayes_carry_out.jpg
 @title[Final Slide]
